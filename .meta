@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "frontend": "https://github.com/revaturelabs/cms-angular.git",
+    "content-service": "https://github.com/revaturelabs/cms-content-service.git"
+  }
+}
