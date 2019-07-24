@@ -2,3 +2,6 @@ frontend
 content-service
 /gateway-service/
 /discovery-service/
+/.metadata/
+/cms-config-server/
+/cms-config/

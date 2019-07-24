@@ -3,6 +3,8 @@
     "frontend": "https://github.com/revaturelabs/cms-angular.git",
     "content-service": "https://github.com/revaturelabs/cms-content-service.git",
     "gateway-service": "https://github.com/revaturelabs/cms-gateway-service.git",
-    "discovery-service": "https://github.com/revaturelabs/cms-discovery-service.git"
+    "discovery-service": "https://github.com/revaturelabs/cms-discovery-service.git",
+    "cms-config-server": "https://github.com/revaturelabs/cms-config-server.git",
+    "cms-config": "https://github.com/revaturelabs/cms-config.git"
   }
 }
