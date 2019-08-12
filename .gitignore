@@ -5,3 +5,4 @@ content-service
 /.metadata/
 /cms-config-server/
 /cms-config/
+/cms-auth/
