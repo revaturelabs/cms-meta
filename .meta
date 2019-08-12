@@ -5,6 +5,7 @@
     "gateway-service": "https://github.com/revaturelabs/cms-gateway-service.git",
     "discovery-service": "https://github.com/revaturelabs/cms-discovery-service.git",
     "cms-config-server": "https://github.com/revaturelabs/cms-config-server.git",
-    "cms-config": "https://github.com/revaturelabs/cms-config.git"
+    "cms-config": "https://github.com/revaturelabs/cms-config.git",
+    "cms-auth": "https://github.com/revaturelabs/cms-auth-service.git"
   }
 }
