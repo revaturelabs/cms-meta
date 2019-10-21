@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CmSforceMicroEurekaApplication<CMSforceMicro-Eureka>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.revature.eurekaapp.CmSforceMicroEurekaApplication",
+            "projectName": "CMSforceMicro-Eureka",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CMSforceConfigServer<ConfigServer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.revature.configserver.CMSforceConfigServer",
+            "projectName": "ConfigServer",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CmSforceMicrozApplication<CMSforceMicroz>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.revature.zuulapp.CmSforceMicrozApplication",
+            "projectName": "CMSforceMicroz",
+            "args": ""
+        }
+    ]
+}
